@@ -2,6 +2,10 @@
 
 Challenge for Farfetch.
 
+## Demo
+
+![](demo-ios.gif)
+
 ## Run Locally
 
 Clone the project
