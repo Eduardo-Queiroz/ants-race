@@ -37,4 +37,5 @@ IOS
 - Redux
 - Saga
 - React navigation
+- Reanimated
 - Axios
